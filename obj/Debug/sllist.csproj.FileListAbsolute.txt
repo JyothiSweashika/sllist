@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\bin\Debug\sllist.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\bin\Debug\sllist.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\bin\Debug\sllist.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\obj\Debug\sllist.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\obj\Debug\sllist.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\obj\Debug\sllist.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\obj\Debug\sllist.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\sllist\sllist\obj\Debug\sllist.pdb
